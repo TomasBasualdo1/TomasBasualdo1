@@ -1,6 +1,6 @@
 # ¡Hola! Soy Tomás Basualdo 👋
 
-### Full Stack Developer en formación, apasionado por crear aplicaciones web completas y funcionales desde cero.
+### Full Stack Developer en formación, apasionado por crear aplicaciones web/mobile completas y funcionales desde cero.
 
 ---
 
