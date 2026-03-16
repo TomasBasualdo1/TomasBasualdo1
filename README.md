@@ -5,7 +5,7 @@
 ---
 
 <p align="left">
-  Actualmente estoy enfocado en construir y desplegar proyectos robustos utilizando el ecosistema de Spring Boot y React. Me entusiasma resolver problemas complejos y aprender constantemente nuevas tecnologías para mejorar la experiencia del usuario y la eficiencia del backend.
+  Actualmente estoy enfocado en construir y desplegar proyectos escalables desde cero. Me entusiasma resolver problemas complejos y aprender constantemente nuevas tecnologías para mejorar la experiencia del usuario y la eficiencia del backend.
 </p>
 
 ---
